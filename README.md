@@ -1,3 +1,3 @@
-# Drevomodul.cz – GitHub Pages e-shop
+# Drevomodul.cz – finální obrázky pro e-shop
 
-Rozšířená verze se všemi podstránkami.
+Tato složka obsahuje všechny vizualizace modulů, stavebnic a příslušenství.
